@@ -12,15 +12,6 @@ I'm a passionate **Data Analyst** with a strong background in working with vario
 - **Programming Languages**: Python
 - **Libraries & Frameworks**: NumPy, Pandas
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGamalOmar&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-### 📈 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanGamalOmar&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ### 📝 Projects
 I have completed **13 projects** related to data analysis and machine learning. Feel free to check them out:
