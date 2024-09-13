@@ -9,7 +9,8 @@ I'm a passionate **Data Analyst** with a strong background in working with vario
   
 ### 🔧 Skills:
 - **Data Analysis Tools**: Excel, SQL Server, Power BI
-- **Programming Languages**: ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Programming Languages**: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 - **Libraries & Frameworks**: NumPy, Pandas
 
 
