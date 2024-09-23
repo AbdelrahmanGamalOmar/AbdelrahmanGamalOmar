@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I'm a passionate **Data Analyst** with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards, visualizations, and machine learning models. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
 
-- 🌱 I’m currently enhancing my knowledge of **data engineering** and **machine learning**.
+- 🌱 I’m currently enhancing my knowledge of **Data Engineering**.
 - 💡 I enjoy learning about new tools and techniques in the data world.
 - 🎯 My goal is to leverage data for making data-driven decisions that create real business impact.
   
@@ -13,6 +13,7 @@ I'm a passionate **Data Analyst** with a strong background in working with vario
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - **Programming Languages**: <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python Logo" width="45" height="45"/>
 
+### Libraries:
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
