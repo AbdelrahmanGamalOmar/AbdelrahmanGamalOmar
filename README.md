@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-
 ### :man_technologist: About Me :
 I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards and visualizations. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
 
@@ -49,6 +48,7 @@ I have completed **14 projects** related to data analysis and machine learning. 
 
 ### 💻 My GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbdelrahmanGamalOmar&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanGamalOmar&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+
 
