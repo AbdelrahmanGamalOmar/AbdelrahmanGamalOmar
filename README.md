@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Abdelrahman!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-### 👨‍💻 About Me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 I'm a passionate **Data Analyst** with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards, visualizations, and machine learning models. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
 
 - 🌱 I’m currently enhancing my knowledge of **Data Engineering**.
