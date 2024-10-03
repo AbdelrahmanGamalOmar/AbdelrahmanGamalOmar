@@ -6,6 +6,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=AbdelahmanGamalOmar&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 <br>
 I'm a passionate **Data Analyst** with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards, visualizations, and machine learning models. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
