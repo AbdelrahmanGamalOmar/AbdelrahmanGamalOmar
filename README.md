@@ -38,7 +38,7 @@ I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 📝 Projects
 I have completed **14 projects** related to data analysis and machine learning. Feel free to check them out:
 
-- [All Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
+- [Data Analysis Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
 
 ---
 ### :fire: My Stats :
