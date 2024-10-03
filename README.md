@@ -11,11 +11,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<br>
 ### :man_technologist: About Me :
 I'm a passionate **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards, visualizations, and machine learning models. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
 
