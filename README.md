@@ -36,7 +36,7 @@ I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="48" height="48"/>&nbsp;
 </div>
 
-
+---
 ### 📝 Projects
 I have completed **14 projects** related to data analysis and machine learning. Feel free to check them out:
 
