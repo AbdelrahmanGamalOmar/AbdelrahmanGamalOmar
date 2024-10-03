@@ -23,23 +23,21 @@ I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 💡 I enjoy learning about new tools and techniques in the data world.
 - 🎯 My goal is to leverage data for making data-driven decisions that create real business impact.
   
-### 🔧 Skills:
-- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-- **Programming Languages**: <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python Logo" width="45" height="45"/>
-
-### Libraries:
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+### 🔧 Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" 
+   width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  
+</div>
 
 
 ### 📝 Projects
-I have completed **13 projects** related to data analysis and machine learning. Feel free to check them out:
+I have completed **14 projects** related to data analysis and machine learning. Feel free to check them out:
 
-- [SQL & Power BI Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
-- [Python Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
+- [All Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/)
