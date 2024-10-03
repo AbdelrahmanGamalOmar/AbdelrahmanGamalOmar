@@ -39,6 +39,10 @@ I have completed **14 projects** related to data analysis and machine learning. 
 
 - [All Projects](https://github.com/AbdelrahmanGamalOmar?tab=repositories)
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanGamalOmar&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/)
 - [Email](abdelrahmangamal287@gmail.com)
