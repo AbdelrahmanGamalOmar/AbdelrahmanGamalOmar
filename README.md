@@ -48,8 +48,7 @@ I have completed **14 projects** related to data analysis and machine learning. 
 </div>
 
 ### 💻 My GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanGamalOmar&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanGamalOmar&theme=tokyo-night" alt="GitHub Activity Graph" />
+
 
 
