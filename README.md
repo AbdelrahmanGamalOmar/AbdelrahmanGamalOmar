@@ -14,6 +14,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
 <b>👨‍💻 About Me</b>
 
 I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards and visualizations. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
