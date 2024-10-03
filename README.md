@@ -43,9 +43,9 @@ I have completed **14 projects** related to data analysis and machine learning. 
 
 ---
 ### :fire: My Stats :
-<p align="center">
+<div align="center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanGamalOmar&theme=dark&background=000000)](https://git.io/streak-stats)
-</p>
+</div>
 
 ### 💻 My GitHub Activity:
 <p align="center">
