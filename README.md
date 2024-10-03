@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=AbdelahmanGamalOmar&style=flat-square&color=blue" alt=""/>
 </div>
-
-
+<br>
 I'm a passionate **Data Analyst** with a strong background in working with various data analysis tools and technologies. I love transforming raw data into meaningful insights through powerful dashboards, visualizations, and machine learning models. Currently, I'm sharpening my data engineering skills to take on even bigger data challenges.
 
 - 🌱 I’m currently enhancing my knowledge of **Data Engineering**.
