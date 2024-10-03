@@ -26,6 +26,7 @@ I'm a **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   
 ### 🔧 Languages and Tools
 <div>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" 
    width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"  width="45" height="45"/>&nbsp;
