@@ -49,12 +49,12 @@ Projects by Category:
 
 - **[SQL and PowerBI Projects](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects)**: A collection of projects combining SQL for data transformation and Power BI for interactive dashboards.
 - **[PowerBI Reports](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/PowerBI-Reports)**: Interactive dashboards and reports showcasing data storytelling.
-- **[Machine Learning Projects](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/Machine-Learning-Projects)**: Predictive modeling projects using Python and libraries like Scikit-learn and XGBoost.
+- **[Machine Learning Projects](https://github.com/AbdelrahmanGamalOmar/Data-Science-Projects/tree/main)**: Predictive modeling projects using Python and libraries like Scikit-learn and XGBoost.
 
 My Top Projects:
 - **[E Commerce Website Performance ETL and Analysis](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects/E-Commerce-Website-Performance-ETL-and-Analysis)**: Python (Pandas) - MySQL - PowerBI
 - **[Olist Ecommerce Sales Analysis](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects/Olist-Ecommerce-Sales-Analysis)**: Microsoft SQL Server - PowerBI
-- **[Waze User Churn Prediction](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/Machine-Learning-Projects/Waze-User-Churn-Prediction)** Python (NumPy - Pandas - Scikit-learn - XGBoost - Matplotlib - Seaborn)
+- **[Waze User Churn Prediction](https://github.com/AbdelrahmanGamalOmar/Data-Science-Projects/tree/main/Waze-User-Churn-Prediction)** Python (NumPy - Pandas - Scikit-learn - XGBoost - Matplotlib - Seaborn)
 
 ---
 
