@@ -49,6 +49,7 @@ Projects by Category:
 
 - **[SQL and PowerBI Projects](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects)**: A collection of projects combining SQL for data transformation and Power BI for interactive dashboards.
 - **[PowerBI Reports](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/PowerBI-Reports)**: Interactive dashboards and reports showcasing data storytelling.
+- **[Pandas Projects](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/Pandas-Projects)**: Data cleaning and EDA projects using Pandas and Visualization using Matplotlib 
 - **[Machine Learning Projects](https://github.com/AbdelrahmanGamalOmar/Data-Science-Projects/tree/main)**: Predictive modeling projects using Python and libraries like Scikit-learn and XGBoost.
 
 My Top Projects:
