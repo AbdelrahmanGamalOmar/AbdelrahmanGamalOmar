@@ -36,7 +36,7 @@ I'm a **Business Data Analyst** from Egypt, turning complex data into strategic 
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,postgres,git,bash" />
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn, fastapi" /><br>
 </div>
 
 ---
