@@ -8,8 +8,8 @@
 
 <div align="center">
      🌱 I’m currently learning <strong>Software Development Lifecycle, ETL, and Data Pipeline Tools.</strong> <br>
-     🔭 Interests: <strong>Data storytelling and automation.</strong> <br>
-     ✔️ Goal: To leverage data for <strong>solving real-world problems and creating business impact.</strong>  <br> <br>
+     ✔️ Goal: To leverage data for <strong>solving real-world problems and creating business impact.</strong>  <br> 
+     🔭 Interests: <strong>Data storytelling and automation.</strong> <br> <br>
 </div>
 
 <div id="badges" align="center">
