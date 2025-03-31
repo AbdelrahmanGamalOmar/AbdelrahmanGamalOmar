@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Gamal!;" />
 </h1>
-<h3 align="center">A passionate Business Data Analyst from Egypt</h3>
+<h3 align="center">A passionate Data Analyst from Egypt</h3>
 <br>
 </div>
 
@@ -26,7 +26,7 @@ ___
 
 ### Welcome to my Portfolio
 
-I'm a **Business Data Analyst** from Egypt, turning complex data into strategic insights. I specialize in visualization and reporting to drive **business decisions** and am expanding my expertise in **Business Analysis** to align data with organizational goals.
+I'm a **Data Analyst** from Egypt, turning complex data into strategic insights. I specialize in visualization and reporting to drive **business decisions** and am expanding my expertise in **Business Analysis** to align data with organizational goals.
 
 - **How to reach me**: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/) | [Email](abdelrahmangamal287@gmail.com)
 
