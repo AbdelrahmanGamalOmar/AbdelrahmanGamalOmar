@@ -41,7 +41,8 @@ I'm a **Business Data Analyst** from Egypt, turning complex data into strategic 
 
 ---
 
-### Featured Projects
+<h2 align="center">⚒️ Featured Projects ⚒️</h2>
+<br/>
 
 Projects by Category:
 
