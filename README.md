@@ -7,9 +7,9 @@
 <br>
 
  <div align="center">
-     🌱 I’m currently learning **Software Development Lifecycle, ETL and Data Pipeline Tools**
-     🔭 Interests: Data storytelling, and automation
-     ✔️ Goal: To leverage data for solving real-world problems and creating business impact.
+     🌱 I’m currently learning **Software Development Lifecycle, ETL and Data Pipeline Tools.**
+     🔭 Interests: **Data storytelling, and automation.**
+     ✔️ Goal: To leverage data for **solving real-world problems and creating business impact.**
  </div>
 
   <div id="badges">
