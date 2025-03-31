@@ -58,7 +58,7 @@ My Top Projects:
 
 ---
 
-<h2 align="center">⚒️ Certifications ⚒️</h2>
+<h2 align="center">📄 Certifications 📄</h2>
 <br>
 
 - **Google Data Analytics Professional Certificate** - Coursera
@@ -75,7 +75,7 @@ My Top Projects:
 ---
 
 
-<h2 align="center">⚒️ Let's Connect ⚒️</h2>
+<h2 align="center">💬 Let's Connect 💬</h2>
 <br>
 
 Feel free to reach out for collaborations, discussions, or just to say hi!
