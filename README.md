@@ -32,17 +32,24 @@ I'm a **Business Data Analyst** from Egypt, turning complex data into strategic 
 
 ---
 
-### Languages and Tools
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <div>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="48" height="48"/>&nbsp;
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" title="MySQL" alt="MySQL" width="48" height="48"
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,postgres,git,bash" />
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn" /><br>
 </div>
 
 ---
