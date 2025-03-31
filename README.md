@@ -41,7 +41,7 @@ I'm a **Business Data Analyst** from Egypt, turning complex data into strategic 
 
 ---
 
-<h2 align="center">⚒️ Featured Projects ⚒️</h2>
+<h2 align="center">🐍 Featured Projects 🐍</h2>
 <br/>
 
 Projects by Category:
@@ -58,14 +58,16 @@ My Top Projects:
 
 ---
 
-### Certifications
+<h2 align="center">⚒️ Certifications ⚒️</h2>
+<br/>
 
 - **Google Data Analytics Professional Certificate** - Coursera
 - **Data Engineering in SQL** - DataCamp
 
 ---
 
-### Stats
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanGamalOmar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -73,7 +75,8 @@ My Top Projects:
 ---
 
 
-### Let's Connect!
+<h2 align="center">⚒️ Let's Connect ⚒️</h2>
+<br/>
 
 Feel free to reach out for collaborations, discussions, or just to say hi!
 
