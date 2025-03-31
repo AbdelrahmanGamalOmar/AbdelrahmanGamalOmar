@@ -12,6 +12,14 @@
      ✔️ Goal: To leverage data for <strong>solving real-world problems and creating business impact.</strong>  <br> <br>
 </div>
 
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/AbdelrahmanGamalOmar">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> 
+    </a> <br>
+    <img src="https://komarev.com/ghpvc/?username=AbdelrahmanGamalOmar&style=flat-square&color=blue" alt="Profile Views"/>
 ___
 
 ### Welcome to my Portfolio
