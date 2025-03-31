@@ -26,7 +26,7 @@ ___
 
 ### Welcome to my Portfolio
 
-I'm a **Data Analyst** from **Egypt**, passionate about transforming raw data into actionable insights. With a strong foundation in data analysis and visualization, I specialize in creating powerful dashboards and reports that drive data-driven decision-making. Currently, I'm expanding my expertise in **Data Engineering** to tackle larger and more complex data challenges.
+I'm a **Business Data Analyst** from Egypt, turning complex data into strategic insights. I specialize in visualization and reporting to drive **business decisions** and am expanding my expertise in **Business Analysis** to align data with organizational goals.
 
 - **How to reach me**: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/) | [Email](abdelrahmangamal287@gmail.com)
 
