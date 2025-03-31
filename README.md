@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Gamal!;" />
 </h1>
 <h3 align="center">A passionate Business Data Analyst from Egypt</h3>
-
 <br>
+</div>
 
- <div align="center">
-     🌱 I’m currently learning **Software Development Lifecycle, ETL and Data Pipeline Tools.** \n
-     🔭 Interests: **Data storytelling, and automation.** \n
+<div align="center">
+     🌱 I’m currently learning **Software Development Lifecycle, ETL and Data Pipeline Tools.** 
+     🔭 Interests: **Data storytelling, and automation.**
      ✔️ Goal: To leverage data for **solving real-world problems and creating business impact.** 
- </div>
+</div>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
