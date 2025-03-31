@@ -2,6 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Gamal!;" />
 </h1>
+<h3 align="center">A passionate Business Data Analyst from Egypt</h3>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
