@@ -20,6 +20,8 @@
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> 
     </a> <br>
     <img src="https://komarev.com/ghpvc/?username=AbdelrahmanGamalOmar&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
 ___
 
 ### Welcome to my Portfolio
