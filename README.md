@@ -7,10 +7,11 @@
 </div>
 
 <div align="center">
-     🌱 I’m currently learning **Software Development Lifecycle, ETL, and Data Pipeline Tools.**  
-     🔭 Interests: **Data storytelling and automation.**  
-     ✔️ Goal: To leverage data for **solving real-world problems and creating business impact.**  
+     🌱 I’m currently learning <strong>Software Development Lifecycle, ETL, and Data Pipeline Tools.</strong> <br>
+     🔭 Interests: <strong>Data storytelling and automation.</strong> <br>
+     ✔️ Goal: To leverage data for <strong>solving real-world problems and creating business impact.</strong>  
 </div>
+
 
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
