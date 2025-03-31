@@ -4,6 +4,14 @@
 </h1>
 <h3 align="center">A passionate Business Data Analyst from Egypt</h3>
 
+<br>
+
+ <div align="center">
+     🌱 I’m currently learning **Software Development Lifecycle, ETL and Data Pipeline Tools**
+     🔭 Interests: Data storytelling, and automation
+     ✔️ Goal: To leverage data for solving real-world problems and creating business impact.
+ </div>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/abdelrahman-gamal121/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,9 +29,6 @@ ___
 
 I'm a **Data Analyst** from **Egypt**, passionate about transforming raw data into actionable insights. With a strong foundation in data analysis and visualization, I specialize in creating powerful dashboards and reports that drive data-driven decision-making. Currently, I'm expanding my expertise in **Data Engineering** to tackle larger and more complex data challenges.
 
-- **Currently Learning**: Data Engineering, Advanced SQL, and Cloud Platforms (AWS, GCP).
-- **Interests**: Data storytelling, and automation.
-- **Goal**: To leverage data for solving real-world problems and creating business impact.
 - **How to reach me**: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/) | [Email](abdelrahmangamal287@gmail.com)
 
 ---
