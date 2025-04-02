@@ -22,14 +22,6 @@
     <img src="https://komarev.com/ghpvc/?username=AbdelahmanGamalOmar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-___
-
-### Welcome to my Portfolio
-
-I'm a **Data Analyst** from Egypt, turning complex data into strategic insights. I specialize in visualization and reporting to drive **business decisions** and am expanding my expertise in **Business Analysis** to align data with organizational goals.
-
-- **How to reach me**: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gamal121/) | [Email](abdelrahmangamal287@gmail.com)
-
 ---
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
