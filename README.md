@@ -44,6 +44,7 @@ Projects by Category:
 - **[Machine Learning Projects](https://github.com/AbdelrahmanGamalOmar/Data-Science-Projects/tree/main)**: Predictive modeling projects using Python and libraries like Scikit-learn and XGBoost.
 
 My Top Projects:
+- **[End-to-End-Shipping-Data-Platform](https://github.com/AbdelrahmanGamalOmar/End-to-End-Shipping-Data-Platform)**: Python (Faker - Pandas - SQLAlchemy) - Google BigQuery - Apache Airflow - DBT - PowerBI 
 - **[E Commerce Website Performance ETL and Analysis](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects/E-Commerce-Website-Performance-ETL-and-Analysis)**: Python (Pandas) - MySQL - PowerBI
 - **[Olist Ecommerce Sales Analysis](https://github.com/AbdelrahmanGamalOmar/Data-Analyst-Portfolio/tree/main/SQL-PowerBI-Projects/Olist-Ecommerce-Sales-Analysis)**: Microsoft SQL Server - PowerBI
 - **[Waze User Churn Prediction](https://github.com/AbdelrahmanGamalOmar/Data-Science-Projects/tree/main/Waze-User-Churn-Prediction)** Python (NumPy - Pandas - Scikit-learn - XGBoost - Matplotlib - Seaborn)
